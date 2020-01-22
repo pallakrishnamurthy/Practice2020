@@ -11,4 +11,3 @@
 2020.01.10 10:15:03 INFO  ce[][o.s.c.c.CePluginRepository] Load plugins
 2020.01.10 10:15:05 INFO  ce[][o.s.c.c.ComputeEngineContainerImpl] Running Community edition
 2020.01.10 10:15:05 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is operational
-2020.01.10 10:15:05 INFO  ce[][o.s.ce.app.CeServer] Compute Engine is operational1234
